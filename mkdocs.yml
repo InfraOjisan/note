@@ -1,0 +1,18 @@
+site_name: インフラおじさんの日常業務
+theme:
+  name: material
+plugins:
+  - search
+# タグも使う場合は tags を追加
+#  - tags
+  - exclude:
+      glob:
+        - "_drafts/*"
+markdown_extensions:
+  - toc:
+      permalink: true
+nav:
+  - Home: index.md
+# タグ一覧を使う場合は tags.md を1枚用意して nav へ
+#  - Tags: tags.md
+
