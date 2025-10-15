@@ -13,6 +13,7 @@ nav:
   - Tags: tags.md
   - 自己紹介: hello-world.md
   - エディタの話: about_code_edit.md
+  - ZabbixでAIOSを始めよう: AIOPS_Entry_with_Zabbix.md
 # タグ一覧を使う場合は tags.md を1枚用意して nav へ
-#  - Tags: tags.md
+  - Tags: tags.md
 
