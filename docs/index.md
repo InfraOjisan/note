@@ -1,4 +1,12 @@
-# Welcome to MkDocs
+# おじさんの作業場へようこそ
+
+## このサイトは何？
+
+最近AIさんとITインフラの仕事してるおじさんが日頃の仕事内容やAIとのChat内容を忘れないように書き留めたものだよ。 Markdownで書いたものをmkdocsってツールでパブリッシングしてGithubPagesで公開しているよ。
+WordPressは重いし遅いし編集しづらいしでコレに落ち着いたよ。
+普段はMac＋VScodeで書いてるよ。
+
+## Welcome to MkDocs
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 

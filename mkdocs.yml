@@ -4,15 +4,15 @@ theme:
 plugins:
   - search
 # タグも使う場合は tags を追加
-#  - tags
-  - exclude:
-      glob:
-        - "_drafts/*"
+  - tags
 markdown_extensions:
   - toc:
       permalink: true
 nav:
   - Home: index.md
+  - Tags: tags.md
+  - 自己紹介: hello-world.md
+  - エディタの話: about_code_edit.md
 # タグ一覧を使う場合は tags.md を1枚用意して nav へ
 #  - Tags: tags.md
 
