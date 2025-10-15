@@ -1,4 +1,4 @@
- # hello world!
+ # hello world
  ## おじさんGitPagesでデビューする
  ![自画像(嘘)](assets/1.pngpython3 -m venv ./venv)
  * 自己紹介
