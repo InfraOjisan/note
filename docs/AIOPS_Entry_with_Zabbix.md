@@ -10,7 +10,6 @@ Zabbixは強力なオープンソース監視ソリューションですが、�
 ## 仕組みの概要
 
 * **使ったZabbixのマクロ**
-
   * `{EVENT.SEVERITY}`（障害の深刻度）
   * `{TRIGGER.NAME}`（障害内容）
   * `{HOST.DESCRIPTION}`（ホストの説明）
@@ -21,7 +20,7 @@ Zabbixは強力なオープンソース監視ソリューションですが、�
 ![設定画面のスクリーンショット](assets/sc02.png)
 
 
-  * Zabbixのスクリプトに記述したコード
+  * **Zabbixのスクリプトに記述したコード**
 ~~~script
 var Gemini = {
     params: {},
