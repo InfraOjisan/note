@@ -4,7 +4,7 @@ theme:
 plugins:
   - search
 # タグも使う場合は tags を追加
-  - tags
+#  - tags
 markdown_extensions:
   - toc:
       permalink: true
@@ -14,6 +14,8 @@ nav:
   - 自己紹介: hello-world.md
   - エディタの話: about_code_edit.md
   - ZabbixでAIOSを始めよう: AIOPS_Entry_with_Zabbix.md
+  - Dockerで新旧バージョンのZabbixをサクッと動かそう: zabbix_docker_5and7.md
+
 # タグ一覧を使う場合は tags.md を1枚用意して nav へ
-  - Tags: tags.md
+#  - Tags: tags.md
 
